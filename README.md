@@ -2,7 +2,7 @@
 </div>
 
 <div align="center">
-<img width="25%" src="https://komarev.com/ghpvc/?username=Senem0666&color=070000">
+<img width="15%" src="https://komarev.com/ghpvc/?username=Senem0666&color=070000">
   </div>
 
   <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=Senem0666&show_icons=true&theme=react&hide_border=true&bg_color=0D1117">
