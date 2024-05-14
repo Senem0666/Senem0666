@@ -2,7 +2,7 @@
 </div>
 
 <div align="center">
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Senem0666&label=Ziyaretçi%20Sayısı&color=da004e" alt="Approval-Denial" /></p>
+<img width="25%" src="https://komarev.com/ghpvc/?username=Senem0666&color=070000">
   </div>
 
   <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=Senem0666&show_icons=true&theme=react&hide_border=true&bg_color=0D1117">
